@@ -1,3 +1,34 @@
 body {
-
+ background-color:#FFFDED;
+}
+h2{
+  color:#124E78;
+  font-size: 250%;
+  letter-spacing: 3px;
+  text-decoration: underline;
+}
+p{
+  color:#DB7C26;
+  font-size: 150%;
+}
+img{
+  border: dashed #FCE762 10px;
+}
+ul{
+  list-style-type: none;
+  text-align: center;
+  position: fixed;
+}
+li{
+  float: left;
+}
+li a{
+  padding: 10px;
+  font-family: "Papyrus", Fantasy;
+  border-style: dashed;
+  color: #124E78;
+}
+li a:hover{
+  background-color: #FCE762;
+  color: #DB7C26;
 }
